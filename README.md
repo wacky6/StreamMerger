@@ -3,11 +3,11 @@ StreamMerger
 
 ##### for node.js
 
-**Merge Readable+Writable to one Duplex Stream**
-or
-**Merge Multiple Discrete Streams to one continuous Stream**
+**Merge Readable+Writable to one Duplex Stream**  
+or  
+**Merge Multiple Discrete Streams to one continuous Stream**  
 
-to be used PG-Relay
+to be used with PG-Relay
 
 **MIT LICENSE**
 
